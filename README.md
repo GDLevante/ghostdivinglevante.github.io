@@ -10,5 +10,3 @@ Página web para reportar redes de pesca fantasma encontradas durante actividade
 - Estadísticas en tiempo real
 - Modal para visualizar reportes recibidos
 - Funcionalidad de búsqueda y filtrado
-
-## Estructura del Proyecto
